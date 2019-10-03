@@ -1,8 +1,8 @@
-Css Hello World Demo
-====================
+Css Use Google Woff Font Demo
+============================
 
-Use css in html pages.
+直接在index.html使用google提供的字体url来使用某种自定义字体
 
-Open `index.html` in your browser.
-
-![demo](./images/demo.jpg)
+```
+open index.html
+```
